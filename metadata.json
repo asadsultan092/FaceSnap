@@ -1,0 +1,5 @@
+{
+  "name": "FaceSnap Pro",
+  "description": "A high-performance video frame extractor that allows users to precisely select and download human faces from video content using manual controls or AI-assisted detection.",
+  "requestFramePermissions": []
+}
