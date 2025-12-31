@@ -264,7 +264,7 @@ const FaceSelector: React.FC<FaceSelectorProps> = ({ videoUrl, onExtract, onBack
               Smart Auto-Detect
             </button>
             <p className="text-[10px] text-slate-400 text-center italic">
-              Powered by Gemini 3 Flash
+              Powered by AI
             </p>
           </div>
 
